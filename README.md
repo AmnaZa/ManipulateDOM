@@ -1,5 +1,6 @@
 # DOM Manipulation
 
+
 Can you really *manipulate* The DOM though?
 
 ![Dom Toretto](https://media.giphy.com/media/XDb8RW95ZVLLW/giphy.gif)
@@ -68,7 +69,4 @@ Select all `.blog-post` class elements. Iterate through the list of `.blog-post`
 
 Test it out!
 
-> Hint:
-
-> Remember the document node property `.classList` and the document node method `.toggle()`.
 
